@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maven+Pro:wght@400;500;600&family=Oswald:wght@700&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+
+    }
+   
+    .head{
+        position: relative;
+        background-color: whitesmoke;
+        height: 100px;
+        border-radius: 1px;
+        
+    }
+    
+    .first{
+        position: relative;
+        left:5%;
+        top: 20px;
+        font-style: italic;
+    }
+    
+    h1::first-letter{
+        color: red;
+    }
+    
+    .sec{
+        position: relative;
+        width: 110px;
+        height: 6px;
+        background-color: red;
+        border-radius: 5px;
+        top: -30px;
+        left: 56px;
+    }
+    
+    .top{
+        position: relative;
+        left: 390px;
+        background: white ;
+        border: 3px solid red;
+        width: 500px;
+        height: 80px;
+        border-radius: 5px;
+        top: 30px;
+    }
+    
+    .top input{
+        position: relative;
+        display: inline-block;
+        left: 15px;
+        border: none;
+        cursor: pointer;
+        margin: 0 10px;
+        width: 200px;
+    }
+
+    .top p{
+        position: relative;
+        left: 25px;
+        font-size: 12px ;
+        font-style: italic;
+        top: 5px;
+    }
+
+    
+   .second{
+    position: relative;
+    left: 400px;
+    top: 20px;
+   }
+
+   .line1{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: red;
+    border-radius: 5px;
+   }
+   .line2{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: lightslategray;
+    border-radius: 5px;
+    left: 125px;
+    top: -3px;
+   }
+   .line3{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: lightslategray;
+    border-radius: 5px;
+    left: 250px;
+    top: -6px;
+   }
+
+   .deal{
+    position: relative;
+    top: 30px;
+   }
+
+   .free{
+    position: relative;
+    background: green;
+    height: 60px;
+    width: 380px;
+    text-align: center;
+    top: 30px;
+    left: 395px;
+    border-radius: 10px;
+   }
+
+   .free1{
+    position: relative;
+    top: 15px;
+   }
+
+   .kow{
+    position: relative;
+    width: 200px;
+}
+
+.k  {
+    position: relative;
+    top: 50px;
+    left: 400px;
+    width: 370px;
+    background-color: #dcdcdc;
+    border: 5px black;
+    height: 400px;
+    border-radius: 5px;
+    
+    box-sizing: -10px 10px 10px  whitesmoke
+    -10px 10px 10px  whitesmoke ;
+    
+
+}
+.niro{
+    position: relative;
+    left: 100px;
+    top: -10px;
+}
+.k img{
+    position: relative;
+    width: 300px;
+   left: 30px;
+}
+
+.btnk {
+    position: relative;
+border: none;
+left: 110px;
+width: 140px;
+height: 40px;
+border-radius: 10px;
+transition: 0.5s;
+}
+
+.btnk a{
+    text-decoration: none;
+    color: black;
+}
+
+.btnk:hover{
+    background-color: red;
+}
+.fa-star{
+    position: relative;
+    left: 220px;
+    top: 30px;
+}
+
+.fa-bag-shopping{
+    position: relative;
+    top: 30px;
+    left: 10px;
+
+}
+.fa-fan{
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+.kk{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.price{
+    position: relative;
+    width: 400px;
+    top: 100px;
+    left: 400px;
+}
+.pr{
+    position: relative;
+    left: 15px;
+}
+.great{
+    position: relative;
+    width: 400px;
+    top: 150px;
+    left: 400px;
+}
+.gr{
+    position: relative;
+    left: 15px;
+}
+
+.drop{
+    position: relative;
+    top: 200px;
+    left: 415px;
+}
+
+.drop input{
+    position: relative;
+    border: none;
+}
+
+.drrrr a{
+    text-decoration: none;
+
+}
+.trrrr a{
+    text-decoration: none;
+
+}
+
+.line6{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    left: -30px;
+    top: 76px;
+}
+
+.line7{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    left: -30px;
+    top: -129px;
+}
+
+.line8{
+    position: relative;
+    width: 2px;
+    height: 120px;
+    background-color: black;
+    left: -25px;
+    top: -100px;
+    border-radius: 10px;
+}
+
+.tr{
+    position: relative;
+    top: -130px;
+}
+
+.trr{
+    position: relative;
+    top: -120px;
+}
+
+.trrr{
+    position: relative;
+    top: -120px;
+}
+
+.trrrr{
+    position: relative;
+    top: -120px;
+} 
+
+.line9{
+    position: relative;
+    height: 1px;
+    width: 200px;
+    background: black;
+    top: 100px;
+    left: 400px;
+}
+
+.break{
+    position: relative;
+    top: 140px;
+    left: 400px;
+    width: 400px;
+    height: 170px;
+    background: white;
+    border: 1px solid black;
+}
+
+.br{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+.brr{
+    position: relative;
+    left: 290px;
+    top: -10px;
+}
+.brrr{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    
+}
+
+.brrrr{
+    position: relative;
+    left:290px ;
+    top: -10px;
+}
+
+.line10{
+    position: relative;
+    width: 350px;
+  height: 1px;
+  background: black;
+  left: 20px;
+
+
+
+}
+
+.end{
+    position: relative;
+    top: 200px;
+    left: 400px;
+    background: whitesmoke;
+    width: 400px;
+    border-radius: 10px;
+    height: 150px;
+}
+
+.en{
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.enn{
+    position: relative;
+    left: 290px;
+    top: -10px;
+}
+
+.btnen{
+    position: relative;
+    left: 20px;
+    width: 360px;
+    height: 40px;
+    border: none;
+    background: white;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.btnen a{
+    text-decoration: none;
+    color: black;
+}
+
+.btnen:hover{
+    background: green;
+}

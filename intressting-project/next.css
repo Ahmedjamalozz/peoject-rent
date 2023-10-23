@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maven+Pro:wght@400;500;600&family=Oswald:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  
+}
+body{
+    position: relative;
+    display: inline-block;
+}
+
+
+.head{
+    position: relative;
+    background-color: whitesmoke;
+    height: 100px;
+    border-radius: 1px;
+    width: 1100px;  
+    left: 70px;
+}
+
+.first{
+    position: relative;
+    left:5%;
+    top: 20px;
+    font-style: italic;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+.sec{
+    position: relative;
+    width: 110px;
+    height: 4px;
+    background-color: red;
+    border-radius: 5px;
+    top: -30px;
+    left: 120px;
+}
+
+.second{
+    position: relative;
+    left: 400px;
+    top: 20px;
+   }
+
+   .line1{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: red;
+    border-radius: 5px;
+   }
+   .line2{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: red;
+    border-radius: 5px;
+    left: 125px;
+    top: -3px;
+   }
+   .line3{
+    position: relative;
+    width: 120px;
+    height: 3px;
+    background-color: lightslategray;
+    border-radius: 5px;
+    left: 250px;
+    top: -6px;
+   }
+
+   .deal{
+    position: relative;
+    top: 30px;
+   }
+
+   .insur{
+    position: relative;
+    left: 400px;
+    top: 20px;
+   }
+   .inn{
+    position: relative;
+    top: -10px;
+    color: green;
+   }
+
+
+.protect{
+    position: relative;
+    left: 400px;
+    top: 20px;
+    background: white;
+    border: 1px solid green;
+    width: 370px;
+    height: 125px;
+}
+
+.pro1{
+    position: relative;
+    left: 60px;
+}
+.pro2{
+    position: relative;
+    left: 15px;
+    top: -10px;
+}
+.pro3{
+    position: relative;
+    left: 15px;
+    top: -20px;
+}
+.pro4{
+    position: relative;
+    left: 15px;
+    top: -25px;
+}
+
+.text{
+    position: relative;
+    width: 360px;
+    left: 400px;
+    top: 50px;
+}
+
+.term{
+    position: relative;
+    color: blue;
+    top: -15px;
+}
+
+.qu{
+    position: relative;
+    background: white;
+    border: 1px solid blue;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    border-radius: 50%;
+    left: 135px;
+    top: -49px;
+}
+
+.mov{
+    position: relative;
+    top: -6px;
+    color: blue;
+}
+
+.none{
+    position: relative;
+    left: 400px;
+    width: 340px;
+}
+.safe{
+    position: relative;
+    left: 400px;
+    top: 20px;
+    background: green;
+    border: 1px solid green;
+    width: 370px;
+    height: 95px;
+}
+
+.pro6{
+    position: relative;
+    left: 60px;
+}
+.pro7{
+    position: relative;
+    left: 15px;
+    top: -10px;
+}
+.pro8{
+    position: relative;
+    left: 15px;
+    top: -20px;
+}
+
+
+.finisher{
+    position: relative;
+    top: 60px;
+    left: 400px;
+}
+button{
+    position: relative;
+    width: 180px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+   
+}
+button a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+}
+.btnkkk{
+    position: relative;
+    background: green;
+    left: 5px;
+}
